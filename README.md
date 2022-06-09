@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @01kazu
 - 👀 I’m interested in coding, learning
 - 🌱 I’m currently learning data science, machine learning
-- 💞️ I’m looking to collaborate on nothng as of now
+- 💞️ I’m looking to collaborate on nothing as of now
 - 📫 How to reach me : Email: davidjoshua026@gmail.com
 
 <!---
